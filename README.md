@@ -1,4 +1,5 @@
 # AWS-Serveless-E-commerce
+<<<<<<< HEAD
 
 # 📐 Arquitetura de um web comerce
 Projeto feito na escola da nuven no curso de extenção AWS SAA    
@@ -13,3 +14,5 @@ Papéis específicos (líder de projeto, arquiteto de solução, engenheiro de n
 ## 👎 Problemas enfrentados pelo cliente:
 - Itens não vão pro carrinho ou não conseguem finalizar a compra.
 - Clientes são “deslogados” de tempo em tempo quando logados;
+=======
+>>>>>>> 4861c6a019ebb238daf2e29453bf0f96a2be8931
